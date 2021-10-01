@@ -1,0 +1,16 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/jiwonss/typechain.git",
+  "author": "jiwonss <sjs3326@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
